@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile Software Testing
 - 🌱 I’m currently learning Web And Mobile Testing
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me berkaydinc42l@gmail.com
+- 📫 How to reach me 
 
 <!---
 amorr42/amorr42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
